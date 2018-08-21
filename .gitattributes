@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+- Created simulations for Submarine Automation for staying in specific zone areas depending on the depth of water to avoid detection while transporting crew and cargo, staying in recommended zone areas when battery is low, and considering different sized cargo that can be carried by different sized submarines and the effect this has on the dive time and recharge time.
+- Implemented this in PDDL and solved it using optic planner through A* search algorithm to find optimal solution
